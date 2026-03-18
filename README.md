@@ -17,6 +17,8 @@ First, open the game in your browser using the provided link. Then, add it to yo
 After installation, you can launch the game directly from your home screen without needing internet access. All game features, including role selection and guided gameplay, will work offline.
 Make sure to open the game at least once while connected to the internet so that all files are properly loaded and stored on your device.
 
+## It is recommended to play on a smartphone.
+
 
 
 # Loup-Garou-Solo-Phone
@@ -37,3 +39,5 @@ Ce jeu peut être utilisé sans connexion internet une fois installé sur votre 
 Commencez par ouvrir le jeu dans votre navigateur à l’aide du lien fourni. Ensuite, ajoutez-le à votre écran d’accueil (sur téléphone) ou installez-le comme une application si votre navigateur le permet. Cette étape enregistre le jeu localement sur votre appareil.
 Après l’installation, vous pouvez lancer le jeu directement depuis votre écran d’accueil sans connexion internet. Toutes les fonctionnalités, y compris le choix des rôles et le déroulement guidé de la partie, fonctionneront hors ligne.
 Assurez-vous d’ouvrir le jeu au moins une fois avec une connexion internet afin que tous les fichiers soient correctement chargés et enregistrés sur votre appareil.
+
+## Jouez de préférence sur un téléphone.
