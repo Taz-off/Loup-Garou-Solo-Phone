@@ -1,8 +1,8 @@
 # Loup-Garou-Solo-Phone
-A digital version of the Werewolf game where players take turns with a single device to discover roles, make decisions, and try to survive or eliminate others.
-
 
 EN/
+A digital version of the Werewolf game where players take turns with a single device to discover roles, make decisions, and try to survive or eliminate others.
+
 game presentation GAME PRESENTATION
 This game is a digital adaptation of the classic *Werewolf of Thiercelieux*. It is designed to let players enjoy the game using a single smartphone, making it easy to play anywhere.
 
@@ -18,9 +18,10 @@ After installation, you can launch the game directly from your home screen witho
 Make sure to open the game at least once while connected to the internet so that all files are properly loaded and stored on your device.
 
 
-FR/
+
 # Loup-Garou-Solo-Phone
 
+FR/
 Une version numérique du jeu du Loup-Garou où les joueurs se passent un seul appareil pour découvrir leur rôle, prendre des décisions et tenter de survivre ou d’éliminer les autres.
 
 PRÉSENTATION DU JEU
